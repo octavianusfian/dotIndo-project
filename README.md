@@ -1,4 +1,4 @@
-# 📚 Project Title
+# 📚 Task Management and Catalog Products
 
 Aplikasi Task management dan Catalog Products
 
@@ -63,6 +63,10 @@ Buka alamat:
 ```
 http://localhost:5173
 ```
+
+## Deployment
+
+Project ini sudah live di Vercel: [Lihat di sini]([https://your-project.vercel.app](https://dot-indo-project-123.vercel.app/))
 
 ## 🛠️ Scripts
 
