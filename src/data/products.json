@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Nike Air Force 1",
+    "price": 12000,
+    "description": "Classic white sneakers with timeless design."
+  },
+  {
+    "id": 2,
+    "name": "Adidas Ultraboost 22",
+    "price": 18000,
+    "description": "High-performance running shoes with Boost cushioning."
+  },
+  {
+    "id": 3,
+    "name": "Converse Chuck Taylor",
+    "price": 7500,
+    "description": "Iconic canvas high-top sneakers for casual style."
+  },
+  {
+    "id": 4,
+    "name": "Vans Old Skool",
+    "price": 8500,
+    "description": "Skate-style shoes with a durable suede upper."
+  },
+  {
+    "id": 5,
+    "name": "New Balance 550",
+    "price": 14000,
+    "description": "Retro basketball-inspired sneakers with premium leather."
+  },
+  {
+    "id": 6,
+    "name": "Puma Suede Classic",
+    "price": 8000,
+    "description": "Legendary suede sneakers known for their street style."
+  },
+  {
+    "id": 7,
+    "name": "Asics Gel-Kayano 28",
+    "price": 16000,
+    "description": "Stability running shoes with advanced gel technology."
+  },
+  {
+    "id": 8,
+    "name": "Reebok Club C 85",
+    "price": 7000,
+    "description": "Vintage tennis shoes with soft leather upper."
+  }
+]

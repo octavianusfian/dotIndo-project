@@ -1,0 +1,14 @@
+import { Outlet } from "react-router-dom";
+
+import Navbar from "./Navbar";
+
+export const Layout = () => {
+  return (
+    <>
+      <Navbar />
+      <main className="py-20 px-4 flex flex-col items-center">
+        <Outlet />
+      </main>
+    </>
+  );
+};
